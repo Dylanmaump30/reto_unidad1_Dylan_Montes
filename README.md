@@ -1,4 +1,3 @@
-# reto_unidad1_Dylan_Montes
 
 # Proyecto: Reto Unidad 1 — MasterIA Cohorte 7
 
